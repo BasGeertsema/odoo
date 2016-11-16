@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"_defa",
+				"_default_session\tfunction"
+			],
+			[
 				"knw",
 				"knownPos"
 			],
@@ -510,29 +514,61 @@
 			[
 				"Signate",
 				"SignatureCompact"
-			],
-			[
-				"Write",
-				"WriteBuffer"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "addons/openacademy/views/partner.xml",
 			"settings":
 			{
-				"buffer_size": 1950,
+				"buffer_size": 1996,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "requirements.txt",
+			"file": "addons/openacademy/views/session_workflow.xml",
 			"settings":
 			{
-				"buffer_size": 580,
+				"buffer_size": 3558,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/openacademy/views/session_board.xml",
+			"settings":
+			{
+				"buffer_size": 2874,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/openacademy/security/ir.model.access.csv",
+			"settings":
+			{
+				"buffer_size": 358,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/openacademy/security/security.xml",
+			"settings":
+			{
+				"buffer_size": 846,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/openacademy/__init__.py",
+			"settings":
+			{
+				"buffer_size": 72,
 				"line_ending": "Windows"
 			}
 		},
@@ -540,7 +576,34 @@
 			"file": "addons/openacademy/__openerp__.py",
 			"settings":
 			{
-				"buffer_size": 924,
+				"buffer_size": 1096,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/openacademy/test.py",
+			"settings":
+			{
+				"buffer_size": 697,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/openacademy/reports.xml",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "proj.sublime-project",
+			"settings":
+			{
+				"buffer_size": 927,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -549,21 +612,94 @@
 			"file": "addons/openacademy/models/models.py",
 			"settings":
 			{
-				"buffer_size": 213,
+				"buffer_size": 5548,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/bgeer_000/Downloads/openacademy (1).pot",
+			"settings":
+			{
+				"buffer_size": 12983,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "addons/openacademy/views/openacademy.xml",
+			"settings":
+			{
+				"buffer_size": 12245,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/bgeer_000/Downloads/all.pot",
+			"settings":
+			{
+				"buffer_size": 677948,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "setup.cfg",
+			"file": "addons/openacademy/i18n/nl.pot",
 			"settings":
 			{
-				"buffer_size": 762,
+				"buffer_size": 897015,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/bgeer_000/Downloads/nl (1).po",
+			"settings":
+			{
+				"buffer_size": 897001,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/bgeer_000/Downloads/openacademy.pot",
+			"settings":
+			{
+				"buffer_size": 11912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "addons/openacademy/models/partner.py",
+			"settings":
+			{
+				"buffer_size": 412,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "# -*- coding: utf-8 -*-"
+			}
+		},
+		{
+			"file": "addons/openacademy/models/wizard.py",
+			"settings":
+			{
+				"buffer_size": 673,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "# -*- coding: utf-8 -*-"
+			}
+		},
+		{
+			"file": "addons/openacademy/models/__init__.py",
+			"settings":
+			{
+				"buffer_size": 88,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system": "Odoo Server Dev Debug Restart",
 	"build_system_choices":
 	[
 		[
@@ -665,6 +801,38 @@
 		[
 			[
 				[
+					"Odoo Server Dev Debug Restart",
+					""
+				],
+				[
+					"Odoo Server Dev Debug Restart",
+					"Module Update"
+				]
+			],
+			[
+				"Odoo Server Dev Debug Restart",
+				"Module Update"
+			]
+		],
+		[
+			[
+				[
+					"Odoo Server Dev Debug Restart",
+					""
+				],
+				[
+					"Odoo Server Dev Debug Restart",
+					"Module openacademy Update"
+				]
+			],
+			[
+				"Odoo Server Dev Debug Restart",
+				"Module openacademy Update"
+			]
+		],
+		[
+			[
+				[
 					"Packages/Python/Python.sublime-build",
 					""
 				],
@@ -722,10 +890,30 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "anaconda",
+		"height": 104.0,
+		"last_filter": "show",
 		"selected_items":
 		[
+			[
+				"show",
+				"Anaconda: Show error list"
+			],
+			[
+				"showe",
+				"Anaconda: Show error list"
+			],
+			[
+				"next er",
+				"Anaconda: Next lint error"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ana",
+				"Anaconda: Next lint error"
+			],
 			[
 				"anaconda",
 				"Anaconda: Vagrant Enable"
@@ -785,10 +973,6 @@
 			[
 				"wor",
 				"Word Wrap: Toggle"
-			],
-			[
-				"inden",
-				"Indentation: Reindent Lines"
 			],
 			[
 				"world",
@@ -983,7 +1167,7 @@
 				"Set Syntax: XML"
 			]
 		],
-		"width": 432.0
+		"width": 560.0
 	},
 	"console":
 	{
@@ -1005,11 +1189,31 @@
 	[
 		"/C/Development/odoo",
 		"/C/Development/odoo/addons",
+		"/C/Development/odoo/addons/board",
+		"/C/Development/odoo/addons/board/controllers",
 		"/C/Development/odoo/addons/openacademy",
-		"/C/Development/odoo/addons/openacademy/models"
+		"/C/Development/odoo/addons/openacademy/controllers",
+		"/C/Development/odoo/addons/openacademy/demo",
+		"/C/Development/odoo/addons/openacademy/i18n",
+		"/C/Development/odoo/addons/openacademy/models",
+		"/C/Development/odoo/addons/openacademy/security",
+		"/C/Development/odoo/addons/openacademy/views"
 	],
 	"file_history":
 	[
+		"/C/Development/odoo/addons/openacademy/i18n/nl_NL.pot",
+		"/C/Development/odoo/addons/openacademy/i18n/openacademy.pot",
+		"/C/Users/bgeer_000/Downloads/nl.po",
+		"/C/Development/odoo/addons/openacademy/views/openacademy.xml",
+		"/C/Development/odoo/requirements.txt",
+		"/C/Development/odoo/addons/openacademy/views/session_workflow.xml",
+		"/C/Development/odoo/addons/openacademy/__openerp__.py",
+		"/C/Development/odoo/README.md",
+		"/C/Development/odoo/addons/openacademy/models/models.py",
+		"/C/Users/bgeer_000/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Development/odoo/addons/openacademy/__init__.py",
+		"/C/Development/odoo/addons/openacademy/models/__init__.py",
+		"/C/Development/odoo/setup.cfg",
 		"/C/Development/odoo/dev.config",
 		"/C/Development/odoo/odoo-bin",
 		"/C/Development/odoo/setup.py",
@@ -1124,20 +1328,7 @@
 		"/c/development/pgb/thirdparty/secp256k1/src/scalar_4x64_impl.h",
 		"/C/Development/pgb/thirdparty/cereal/include/cereal/external/rapidjson/document.h",
 		"/C/Development/pgb/thirdparty/forestdb/src/blockcache.cc",
-		"/c/development/range-v3-vs2015/include/range/v3/action/sort.hpp",
-		"/c/program files (x86)/microsoft visual studio 14.0/vc/include/algorithm",
-		"/C/Development/pgb/thirdparty/asio/include/asio/buffered_write_stream.hpp",
-		"/c/development/range-v3-vs2015/include/range/v3/utility/iterator.hpp",
-		"/C/Development/pgb/thirdparty/forestdb/src/kvs_handle.h",
-		"/C/Development/pgb/thirdparty/forestdb/src/btree.h",
-		"/c/development/pgb/thirdparty/cereal/include/cereal/cereal.hpp",
-		"/c/program files (x86)/microsoft visual studio 14.0/vc/include/chrono",
-		"/C/Development/pgb/src/common/limitedmap.h",
-		"/C/Development/pgb/thirdparty/asio/include/asio/buffer.hpp",
-		"/C/Development/pgb/src/net/net.h",
-		"/C/Development/pgb/thirdparty/cereal/include/cereal/details/static_object.hpp",
-		"/c/development/pgb/thirdparty/asio/include/asio/ip/address.hpp",
-		"/c/program files (x86)/microsoft visual studio 14.0/vc/include/xtree"
+		"/c/development/range-v3-vs2015/include/range/v3/action/sort.hpp"
 	],
 	"find":
 	{
@@ -1197,6 +1388,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"seats",
+			"attende",
+			"attendees",
+			"attendee",
+			"validationero",
+			"{\n",
+			"sessions",
+			"partner",
+			"openacad.",
+			"openacad_",
+			"openacad",
+			"view_openacad_session_kanban",
+			"search",
+			"session",
+			"sessio",
+			"openacademy",
 			"ldap",
 			"\");",
 			"^.*\\S+.*$",
@@ -1308,23 +1515,7 @@
 			"Failed",
 			"state",
 			"miSelf",
-			"mapBlockIndex",
-			";",
-			"rejectReason_In",
-			"rejectReason_ ",
-			"strDebugMessage",
-			"strDebugMessageIn",
-			" bool ret = false,",
-			"false",
-			"ret",
-			"CorruptionPossible",
-			"corruptionPossible",
-			"CorruptionPossible",
-			"corruptionPossible",
-			"corruptionIn",
-			"rejectReason_In",
-			"_rejectCode_",
-			"chRejectCode"
+			"mapBlockIndex"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1376,52 +1567,116 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "addons/openacademy/views/partner.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1950,
+						"buffer_size": 1996,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1566,
-								1566
+								749,
+								749
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "requirements.txt",
+					"file": "addons/openacademy/views/session_workflow.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 580,
+						"buffer_size": 3558,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								486,
-								486
+								1845,
+								1845
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "addons/openacademy/views/session_board.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2115,
+								2115
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "addons/openacademy/security/ir.model.access.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
 							]
 						],
 						"settings":
@@ -1432,24 +1687,80 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "addons/openacademy/__openerp__.py",
+					"buffer": 4,
+					"file": "addons/openacademy/security/security.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 924,
+						"buffer_size": 846,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								729,
-								771
+								846,
+								846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "addons/openacademy/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "addons/openacademy/__openerp__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1096,
+								1096
 							]
 						],
 						"settings":
@@ -1459,27 +1770,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 90.0,
+						"translation.y": 59.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "addons/openacademy/models/models.py",
+					"buffer": 7,
+					"file": "addons/openacademy/test.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 213,
+						"buffer_size": 697,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								144,
-								144
+								697,
+								697
 							]
 						],
 						"settings":
@@ -1492,41 +1803,356 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 4,
-					"file": "setup.cfg",
+					"buffer": 8,
+					"file": "addons/openacademy/reports.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 762,
+						"buffer_size": 1017,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								332,
-								332
+								1017,
+								1017
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "proj.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								920,
+								920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "addons/openacademy/models/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2232,
+								2232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/bgeer_000/Downloads/openacademy (1).pot",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								12983
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "addons/openacademy/views/openacademy.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11423,
+								11423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3172.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/bgeer_000/Downloads/all.pot",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 677948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "addons/openacademy/i18n/nl.pot",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 897015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2049,
+								2049
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/bgeer_000/Downloads/nl (1).po",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 897001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								666,
+								666
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/bgeer_000/Downloads/openacademy.pot",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "addons/openacademy/models/partner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# -*- coding: utf-8 -*-",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "addons/openacademy/models/wizard.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								647,
+								647
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# -*- coding: utf-8 -*-",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "addons/openacademy/models/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
 					"type": "text"
 				}
 			]
@@ -1560,7 +2186,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.458857696031,
 			1.0
 		],
 		"rows":
@@ -1572,7 +2198,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 355.0
+		"height": 526.0
 	},
 	"output.find_results":
 	{
@@ -1591,6 +2217,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"sesion",
+				"addons\\openacademy\\views\\session_workflow.xml"
+			],
 			[
 				"setup",
 				"setup.py"
@@ -2097,10 +2727,6 @@
 			],
 			[
 				"test_mah",
-				"test\\test_math.cpp"
-			],
-			[
-				"test_math",
 				"test\\test_math.cpp"
 			]
 		],
@@ -2636,7 +3262,7 @@
 		],
 		"width": 624.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},

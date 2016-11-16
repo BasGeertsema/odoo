@@ -5,12 +5,12 @@
 			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
 			"name": "Odoo Server Dev Debug Restart",
 			"selector": "source.python",
-			"shell_cmd": "taskkill /im python.exe && C:\\WinPython27\\python-2.7.10.amd64\\python.exe C:\\Development\\odoo\\odoo.py --config=dev.config --debug --dev",
+			"shell_cmd": "taskkill /im python.exe /fi \"memusage gt 40\" && C:\\WinPython27\\python-2.7.10.amd64\\python.exe C:\\Development\\odoo\\odoo.py --config=dev.config --debug --dev",
 			"variants":
 			[
 				{
 					"name": "Module openacademy Update",
-					"shell_cmd": "taskkill /im python.exe && C:\\WinPython27\\python-2.7.10.amd64\\python.exe C:\\Development\\odoo\\odoo.py --config=dev.config --debug --dev --init=openacademy --update=openacademy"
+					"shell_cmd": "taskkill /im python.exe /fi \"memusage gt 40\" && C:\\WinPython27\\python-2.7.10.amd64\\python.exe C:\\Development\\odoo\\odoo.py --config=dev.config --debug --dev --init=oepetstore --update=oepetstore"
 				}
 			],
 			"working_dir": "${project_path:${folder}}"
